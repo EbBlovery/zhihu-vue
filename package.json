@@ -1,8 +1,8 @@
 {
-  "name": "zhihu-daily",
+  "name": "counter",
   "description": "by vue2",
   "version": "2.0.0",
-  "author": "zhangguanyu02 <zhangguanyu02@meituan.com>",
+  "author": "zhangguanyu02",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --hot --progress",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
